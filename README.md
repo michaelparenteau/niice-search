@@ -1,7 +1,7 @@
 niice-search
 ============
 
-An alfred workflow for finding design inspiration in niice.co
+An alfred workflow for finding design inspiration in [niice.co](http://nice.co)
 
 ![Screenshot of the niice search Alfred extension in action](http://f.cl.ly/items/0O392R1Z2G0T182z3V3I/Untitled-3.png "niice search")
 
